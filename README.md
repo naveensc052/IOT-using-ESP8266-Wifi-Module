@@ -1,4 +1,4 @@
-# IOT-using-ESP8266-Wifi-Module
+# IOT-using-SST-NodeMCU-Board-with-ESP8266-Wifi-Module
 
 1.Toogle_Switch_to_Turn_ON_and_OFF_for_LED
 
