@@ -1,1 +1,13 @@
 # IOT-using-ESP8266-Wifi-Module
+
+1.Toogle_Switch_to_Turn_ON_and_OFF_for_LED
+
+2.Displaying_LDR_value_on_Serial_Monitor
+
+3.Dispalying_HELLO_WORLD!_on_LCD_Screen
+
+4.Displaying_String_on_OLED_Screen
+
+5.To_rotate_DC_MOTOR_Clock_and_Anticlockwise
+
+6.To_Measure_Distance_using_Ultrasonic_Sensor
